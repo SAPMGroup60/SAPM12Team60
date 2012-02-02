@@ -1,2 +1,2 @@
-GIT file has to be checked out. I am editing this now. 
+GIT file has to be checked out. I am editing this now. Second round of editing
 
