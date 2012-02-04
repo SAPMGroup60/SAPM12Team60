@@ -14,3 +14,43 @@ I noted some tasks that I think we should do in order to implement the required 
 11) Implementation.
 12) Testing.
 
+*************************************************************************************************************************
+
+1} Project Planning
+Determine project team
+Decide on the hardware/software required (What interfaces, packages, applications will be required to implement the project).
+
+2} Requirements Gathering
+
+Creation of requirement specification document (FRS) from BRS (Business Requirement Specification)
+Verify the requirement specification document
+Preparation of use case/class/activity diagrams
+Make sure the hardware/software is in place
+
+3} Knowledge transfer sessions from BA to Dev and Test Team
+
+Meetings to check if the understanding is correct (MOM)
+
+5} Design of HLD and LLD documents – technical architect prepares both
+
+6} Development of Prototype Env 
+
+Online portal setup/website, creation and maintenance of databases, development of business logic (Workflow management)
+
+7} Test Case Drafting & Test Plan Preparation
+
+8} Actual development of Environment, in parallel with Regression testing
+
+9} Unit testing of every module , in parallel defect finding and fixing
+
+10} Integration test phase - internal
+
+11} System test phase – defect finding and fixing
+
+12} Integration test phase – – defect finding and fixing -- with external third parties
+
+13} Code Deployment 
+
+14} User acceptance (Customer Integration test performed on behalf of customer by third party users)
+
+15} Go Live
