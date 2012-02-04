@@ -1,0 +1,41 @@
+1} Make an account on GitHub.com
+
+2} Please send me an email mentioning your account name, so that I can add you to the group
+
+3} After I add you to the repository, you can now add/view/edit documents from the repository.
+
+4} You can view the repository under "Account Settings" (visible on the upper right hand corner of the web page)--> Organizations-->SAPMGroup60
+
+5} On the "Account Settings" page itself, add your "rsa_id.pub" key which you generated earlier for Gerrit.
+
+6} After you drill down on the name of the repository, you will find the hyperlink for our repository on the lower right hand side called as "SAPMGroup60/SAPM12Team60"
+
+7} Create a directory on your local drive using the command - mkdir SAPM12Team60
+
+8} Enter this directory - cd SAPM12Team60
+
+9} Now we need to clone the repository to our local drive - git init
+
+10} We now need to set "origin" to the path of git repository, the command is as follows -
+
+git remote add origin git@github.com:SAPMGroup60/SAPM12Team60.git
+
+11} ALWAYS PLEASE PULL THE DOCUMENTS FROM THE RESPOSITORY BEFORE UPLOADING ANY CHANGES
+
+command - git pull origin master
+
+12} If you add a new file to the repository on your local drive and try to push the document without pulling the changes, you will not be allowed to do so. 
+
+13} To push documents, perform "pull" first, add the file, commit changes and then the "push" command - 
+
+git pull origin master
+
+git add example.txt
+
+git commit -m 'example'
+
+git push origin master
+
+14} Check on github whether the document is uploaded with your user name.
+
+14} Enjoy!!!
