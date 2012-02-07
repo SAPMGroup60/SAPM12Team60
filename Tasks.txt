@@ -141,7 +141,6 @@ teams through the management of queries received
 1.55 Enable users to update customer details
 
 
-
 3) DB Management(Repository)
 
 1.47 Update rights and media repository following completion of dispute process
