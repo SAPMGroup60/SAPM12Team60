@@ -31,7 +31,7 @@ Make sure the hardware/software is in place
 
 Meetings to check if the understanding is correct (MOM)
 
-5} Design of HLD and LLD documents – technical architect prepares both
+5} Design of HLD and LLD documents ï¿½ technical architect prepares both
 
 6} Development of Prototype Env 
 
@@ -45,9 +45,9 @@ Online portal setup/website, creation and maintenance of databases, development 
 
 10} Integration test phase - internal
 
-11} System test phase – defect finding and fixing
+11} System test phase ï¿½ defect finding and fixing
 
-12} Integration test phase – – defect finding and fixing -- with external third parties
+12} Integration test phase ï¿½ ï¿½ defect finding and fixing -- with external third parties
 
 13} Code Deployment 
 
@@ -201,10 +201,34 @@ Task 6
 Deployment starts after the code is appropriately tested, approved for release, and sold or otherwise distributed into a production environment. This may involve installation, customization (e.g. by setting parameters to the customer's values), testing, and possibly an extended period of evaluation.
 Software training and support is important, as software is only effective if it is used correctly.
 Maintaining and enhancing software to cope with newly discovered faults or requirements can take substantial time and effort, as missed requirements may force redesign of the software.This is not exactly a task that it is necessary for the completeness of the
-system but is a necessary task so as the system can be “alive” while time
+system but is a necessary task so as the system can be ï¿½aliveï¿½ while time
 passes.
 Non functional requirements are the ones which specify criteria that can be used to judge the operation of a system, rather than specific behaviors.Maybe it is good to mention them.
 If we assume that we are the Technology group of the company we should take into account that the CRM system is not only matter of technology, but also of management marketing etc. So there should be a cooperation which we should mention.
+
+***
+Register Customer 
+
+1. Let the user select which type of user he is - performer, record company(RC), representatives and international society (1.13)
+Customer can't be both performer and RC. A RC, internationl society or a representative must be able to register multiple performers under their name.
+
+2. Provide appropriate documentation for each type of user. (1.12)
+
+3. Get appropriate details from the user. Store all the addresses in a text file with some kind of indexing (as many differnet addresse need to be recorded) and store them along with the legal and other scanned documents. (1.14)
+
+4.Let the user determine activation and termination dates for both mandates registered for (covered in steps 5-7) and the account itself. (1.15)
+
+5. Depending on the customer name - search media database for mandates relevant to the customer. (1.16)
+
+6. If mandates are not already registered to someone else let the user register them to his account. Provide appropriate acknowledgement.(1.16)
+
+7. In cases where a mandate is already registered to someone else raise a ticket to the support team. (1.17)
+
+8. Once all details are finalised, send an email to the user's email address confirming registration (1.19)
+
+9. Check if user had duplicate records. If yes, raise a ticket to the support team to allow them to decide who the merger of records will be. (1.21)
+
+10. Make appropriate changes to other tables in the database once registration has been confirmed. (1.22)
 
 
 
