@@ -54,3 +54,49 @@ Online portal setup/website, creation and maintenance of databases, development 
 14} User acceptance (Customer Integration test performed on behalf of customer by third party users)
 
 15} Go Live
+
+***************************************************************************************************************************
+
+Requirements that cannot be expressed as tasks
+
+1.01 Manual changes to data: ad hoc frequency
+( This is a description of a specific feature that a function should have. However this cannot be expressed as a task, because there is no way to estimate how long to implement this specifically. )
+
+1.02 Read access: lock data fields so that a record can be updated by only one user at a time
+( Again, this is a description of a feature that the function of changing data by users. To implement that function can be expressed as a task, and this feature should be a performance of the function. )
+
+1.03 Portal display: member details in full
+( A requirement for displaying, not a concrete thing to do. )
+
+1.04 Account set-up: customer hierarchy
+( Similarly, this is a requirement for the feature of customer hierarchy. It can be the result of the function, but not a thing to implement by the team. )
+
+1.05 Web channel: secure access
+( A demand for the secure access. This should be considered in the process of implementing web. )
+
+1.06 Claims workflow: facilitated and transparent
+( This is a demand for the function of making claims through the web. )
+
+1.08 Scalability: data received from customers
+( A demand for the function of uploading data by users. This should be considered to achieve when implement that function, but not be seen as a specific task. )
+
+1.09 Flexibility: data standards
+( A demand for the strategy of storing data. )
+
+1.1 Distribution: fixed time considerations
+( A demand for the function of making claims. )
+
+1.11 Claims: multiple file formats
+( Same as 1.06, a demand for the function of making claims through the web. Should be considered in the process of implementing the function. )
+
+1.13 Claims: multiple claims against a single right by an individual member
+( Another demand for the function of making claims. )
+
+1.14 Synchronisation of media database and rights information: near real time
+( A requirement for the update of media database and rights information. Should be considered in the process of designing the system of storing data. )
+
+1.16 Funds: holds on distribution 
+( A demand for the function of managing payment. Should be considered in the process of implementing the function. )
+
+1.17 GUI: user friendly CS interface
+( The requirement of designing GUI. Should be considered in the process of designing GUI style. )
