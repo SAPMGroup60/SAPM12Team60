@@ -145,7 +145,66 @@ teams through the management of queries received
 
 1.47 Update rights and media repository following completion of dispute process
 
+--------------------------------------------------------------------------
+Athina
 
+SMART MEDIA LTD CRM will provide e-commerce capabilities for:
+E-marketing supports demand generation and customer loyalty processes over the internet so the customers Web experiences are personalized to provide the most relevant and convenient online experience and information.
+E-selling runs complete sales process on the Internet so customers receive personalized interactive and easy to use sales and self service functions while companies streamline sales and fulfillment operations with an end-to-end, order-to-cash process.
+E-service provides Web-based self-service applications that give access to enterprise knowledge and services so customers can obtain information at any time.
+In the following lines there is a list of the major tasks that are required for our team to implement the requested features as given within our Case Study and the whole overview. Task1 to Task3 and some sub tasks (that are mentioned below) represent tasks of higher level that are not stated clearly in the Deloitte case study but we think that are necessary to be included in the following list. Though, Task4 and Task5 correspond directly to the given Functional Requierments. I feel we should mention the type of software development design weare going to follow
+http://en.wikipedia.org/wiki/Software_development_process#Iterative_and_incremental_development
+http://en.wikipedia.org/wiki/Unified_Process
+Task 1
+[Analysis]
+
+1.1 Requirements
+1.2 Risk
+1.3 Documentation of analysis
+Task 2
+[Plan (time and resources)]
+
+2.1 Time schedule of the project
+2.2 Human resources allocation
+2.3 Documentation of plan
+
+Task 3
+[Design]
+
+This group of tasks is not mentioned in a clear way in the requirements document but it is a necessary in order to implement the requirements. So the group has decided on expanding more and thinking in a more creative way as regards that part of the project.
+
+3.1 Design the database schemata which will include 		the media
+the play list database
+      the rights
+      the membership details
+3.2 Design the finance interface
+3.3 Design the user interfaces for functionalities (GUI) / web channel
+3.4 Design the user interfaces for staff and customers (GUI) / web channel
+3.5 Documentation for Design
+
+Task 4
+[Implementation]
+
+Development of interfaces and components, then mention the respective requirements(take into account several versions of software = releases).
+ 
+Task 5
+[Test]
+
+5.1 Unit test of the existing software
+5.2 Integrated Test for different parts of the software
+5.3 System Test (???)
+5.4
+
+Task 6
+[Maintainance]
+
+Deployment starts after the code is appropriately tested, approved for release, and sold or otherwise distributed into a production environment. This may involve installation, customization (e.g. by setting parameters to the customer's values), testing, and possibly an extended period of evaluation.
+Software training and support is important, as software is only effective if it is used correctly.
+Maintaining and enhancing software to cope with newly discovered faults or requirements can take substantial time and effort, as missed requirements may force redesign of the software.This is not exactly a task that it is necessary for the completeness of the
+system but is a necessary task so as the system can be “alive” while time
+passes.
+Non functional requirements are the ones which specify criteria that can be used to judge the operation of a system, rather than specific behaviors.Maybe it is good to mention them.
+If we assume that we are the Technology group of the company we should take into account that the CRM system is not only matter of technology, but also of management marketing etc. So there should be a cooperation which we should mention.
 
 
 
