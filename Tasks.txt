@@ -100,3 +100,54 @@ Requirements that cannot be expressed as tasks
 
 1.17 GUI: user friendly CS interface
 ( The requirement of designing GUI. Should be considered in the process of designing GUI style. )
+
+*************************************************************************************************************************************
+1.4,1.5 Manage Disputes and Manage Queries
+--------------------------------------------
+
+1)WorkFlow Management(Bussiness Logic)
+
+1.40 Workflow management to support and guide users through the disputes
+process
+
+1.41 Provide automated communication between Smart Media Ltd and its
+relevant parties involved in the dispute to ensure all parties are fully aware
+of the status
+
+1.42 Enable disputes to be raised from other prcesses
+
+1.44 Allow Smart Media Ltd to hold funds when a dispute arises
+
+1.45 Send request to claimant for proof of claim when rights information is
+disputed
+
+1.46 Log receipt of evidence provided by the disputer
+
+1.49 Provide workflow management to support and guide customer service
+teams through the management of queries received
+
+1.50 Support automated communication to Customers
+
+
+
+2) Web Design
+
+1.43 Enable submission of a dispute via the online web channel
+
+1.52 Enable users to view customer details
+
+1.54 Enable users to view customer usage and transactions
+
+1.55 Enable users to update customer details
+
+
+3) DB Management(Repository)
+
+1.47 Update rights and media repository following completion of dispute process
+
+
+
+
+
+
+
