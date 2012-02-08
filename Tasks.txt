@@ -235,13 +235,14 @@ Customer can't be both performer and RC. A RC, internationl society or a represe
 Athina and Thanos
 
 ANALYSIS
-* Business Requirements Specifications ----------->Angad----> I think we can change these titles to tasks like for e.g. - Receive BRS from customer
+* Business Requirements Specifications ----------->Angad----> I think we can change these titles to tasks like for e.g. - Receive BRS from customer - Thaanos->No prob that is a minor change.
+
 * Software Requirements Specifications
 * Requirements Analysis (functional, non-functional)
 * Risk analysis
 * Gather and Categorize functionalities
 
--------->Angad---------->Shouldn't there be task of preparing Requirements document after analysis of requirements
+-------->Angad---------->Shouldn't there be task of preparing Requirements document after analysis of requirements --->Yes, in each major task (Analysis, Plan, Design, Implementation, Test, Maintenance) there will be a subtask which will be the documentation.
 
 PLAN ------>Angad----->Shouldn't project plan be in place before we begin the analysis of requirements?
 
@@ -253,7 +254,7 @@ PLAN ------>Angad----->Shouldn't project plan be in place before we begin the an
 	2. Duration of the implementation of the components
 	3. Human Resources training appointments
 
-DESIGN --------->Angad------->Are we not taking into consideration the preparation task for use case/activity diagrams?
+DESIGN --------->Angad------->Are we not taking into consideration the preparation task for use case/activity diagrams? --Thanos->  Diagrams are part of the HLD and LLD. We will match each subtask with the requirements.
 * HLD 
 	* Functional architecture
 	* Database Design
@@ -269,13 +270,13 @@ DESIGN --------->Angad------->Are we not taking into consideration the preparati
 * UI for functionalities
 * UI for staff and customers
 
----->Angad---->Where should we put the task for knowledge transfer sessions??
+---->Angad---->Where should we put the task for knowledge transfer sessions?? --Thanos--> Plan Task. Meetings, HR training appointments.
 
 IMPLEMENTATION
 * Create/update database membership ()
 * Create/update database rights()
 * Development of the “Funding Interface” component  (1.37, 1.44, 1.45, 1.16, 1.6()
-* Development of the “User Interface for functionalities” component()---------------------->Do you mean the CRM system which we would develop?
+* Development of the “User Interface for functionalities” component()---------------------->Do you mean the CRM system which we would develop? --Thanos->CRM will be part of it.
 * Development of the “User Interface for staff, customers, third parties” component()
 * Development of the “Registration” component()
 * Development of the “Help” component()
@@ -285,7 +286,7 @@ IMPLEMENTATION
 * Development of the “Track system” component (1.49, 1.50, 1.41)
 * Write the Documentation for the implementation stage
 
------------>Angad---------> Have we taken into consideration the workflows which will take care of communication with the customer? 
+----------->Angad---------> Have we taken into consideration the workflows which will take care of communication with the customer? ---Thanos-> To which requirements are you refering to?
 
 TEST
 * Unit testing
@@ -295,8 +296,9 @@ TEST
 * Synchronization testing
 * Integration testing
 * System testing
+*Performance testing
 
------------->Angad--------------> We can add performance testing as another task to the list.
+------------>Angad--------------> We can add performance testing as another task to the list.  ---Thanos--> Yes we can add it (I did it).
 
 MAINTENANCE
 * System maintenance
