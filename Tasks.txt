@@ -230,7 +230,66 @@ Customer can't be both performer and RC. A RC, internationl society or a represe
 
 10. Make appropriate changes to other tables in the database once registration has been confirmed. (1.22)
 
+************************************************************************************************************************************
+08-02-2012
+Athina and Thanos
 
+ANALYSIS
+* Business Requirements Specifications 
+* Software Requirements Specifications
+* Requirements Analysis (functional, non-functional)
+* Risk analysis
+* Gather and Categorize functionalities
 
+PLAN
+* Hardware / Software architecture
+* Human Resources (Design Team, Review Team, Customers)
+* Human Resources training (content)
+* Time schedule of 
+	1. Meetings
+	2. Duration of the implementation of the components
+	3. Human Resources training appointments
+
+DESIGN 
+* HLD 
+	* Functional architecture
+	* Database Design
+* LLD 
+	* Program Specification
+	* Unit test plan
+* Database Schemata for 
+	1. The media
+	2. The playlist
+	3. The rights
+	4. The membership
+* Finance interface
+* UI for functionalities
+* UI for staff and customers
+
+IMPLEMENTATION
+* Create/update database membership ()
+* Create/update database rights()
+* Development of the “Funding Interface” component  (1.37, 1.44, 1.45, 1.16, 1.6()
+* Development of the “User Interface for functionalities” component()
+* Development of the “User Interface for staff, customers, third parties” component()
+* Development of the “Registration” component()
+* Development of the “Help” component()
+* Development of the “Make a claim” component()
+* Development of the “Make a dispute” component()
+* Development of the “Verification” component ( )
+* Development of the “Track system” component (1.49, 1.50, 1.41)
+* Write the Documentation for the implementation stage
+
+TEST
+* Unit testing
+* Security testing
+* Flexibility testing
+* Scalability testing
+* Synchronization testing
+* Integration testing
+* System testing
+
+MAINTENANCE
+* System maintenance
 
 
