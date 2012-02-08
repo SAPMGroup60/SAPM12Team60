@@ -235,22 +235,25 @@ Customer can't be both performer and RC. A RC, internationl society or a represe
 Athina and Thanos
 
 ANALYSIS
-* Business Requirements Specifications 
+* Business Requirements Specifications ----------->Angad----> I think we can change these titles to tasks like for e.g. - Receive BRS from customer
 * Software Requirements Specifications
 * Requirements Analysis (functional, non-functional)
 * Risk analysis
 * Gather and Categorize functionalities
 
-PLAN
+-------->Angad---------->Shouldn't there be task of preparing Requirements document after analysis of requirements
+
+PLAN ------>Angad----->Shouldn't project plan be in place before we begin the analysis of requirements?
+
 * Hardware / Software architecture
-* Human Resources (Design Team, Review Team, Customers)
+* Human Resources (Design Team, Review Team, Customers)----->Angad--->Question about customers, why do we need customers in HR?
 * Human Resources training (content)
 * Time schedule of 
 	1. Meetings
 	2. Duration of the implementation of the components
 	3. Human Resources training appointments
 
-DESIGN 
+DESIGN --------->Angad------->Are we not taking into consideration the preparation task for use case/activity diagrams?
 * HLD 
 	* Functional architecture
 	* Database Design
@@ -266,11 +269,13 @@ DESIGN
 * UI for functionalities
 * UI for staff and customers
 
+---->Angad---->Where should we put the task for knowledge transfer sessions??
+
 IMPLEMENTATION
 * Create/update database membership ()
 * Create/update database rights()
 * Development of the “Funding Interface” component  (1.37, 1.44, 1.45, 1.16, 1.6()
-* Development of the “User Interface for functionalities” component()
+* Development of the “User Interface for functionalities” component()---------------------->Do you mean the CRM system which we would develop?
 * Development of the “User Interface for staff, customers, third parties” component()
 * Development of the “Registration” component()
 * Development of the “Help” component()
@@ -280,6 +285,8 @@ IMPLEMENTATION
 * Development of the “Track system” component (1.49, 1.50, 1.41)
 * Write the Documentation for the implementation stage
 
+----------->Angad---------> Have we taken into consideration the workflows which will take care of communication with the customer? 
+
 TEST
 * Unit testing
 * Security testing
@@ -288,6 +295,8 @@ TEST
 * Synchronization testing
 * Integration testing
 * System testing
+
+------------>Angad--------------> We can add performance testing as another task to the list.
 
 MAINTENANCE
 * System maintenance
