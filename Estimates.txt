@@ -1,1 +1,40 @@
 I have edited it now, this is the second commit
+
+1) Planning
+- Prepare project Plan  - 1 week
+- Submit & get approval for Project Plan  3-4 days
+- Project Kick-off Meeting - 1 day
+- Decide on hardware & software requirements - > 2 days
+
+Front End - Oracle CRM/Portal for customer service agents
+Website - Drupal - PHP
+Back End - Oracle SQL Developer - Oracle 11g
+
+2) Analysis
+- Create FRS from BRS - 1 week
+-FRS signed and approved - 1 week
+- Knowledge Transfer Sessions - 7/8 days
+- Risk Analysis - 3 days - ?
+
+3) Design
+
+- HLD, LLD -  2 weeks
+  - DB Schema
+	- Website Design
+	- CRM System Design
+
+- Preparation of test plan - 1 weeks - Simultaneously with previous
+- Verification of test plan - 1 week 
+
+4) Development
+
+- Development of Environment
+	- Oracle CRM/ Portal for customer Service agents
+		- Acess Rights Setup for Agents - 2 days
+		- Customer Service Request Module, Customer Data Management & Update Third party Data sources - 10 days
+		- Allow Bulk update from CRM System & Handle bulk claims & change requests (WF) - 1 week
+		- Dispute Management Module - 1 week
+		- 
+
+	- Website
+	- DB Setup
