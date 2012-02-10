@@ -38,4 +38,6 @@ git push origin master
 
 14} Check on github whether the document is uploaded with your user name.
 
+15} git log --after={2012-02-01} - to get entire log
+
 14} Enjoy!!!
