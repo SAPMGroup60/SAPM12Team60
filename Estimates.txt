@@ -1,0 +1,141 @@
+I have edited it now, this is the second commit
+
+1) Planning
+- Prepare project Plan  - 1 week
+- Submit & get approval for Project Plan  3-4 days
+- Project Kick-off Meeting - 1 day
+- Decide on hardware & software requirements - > 2 days
+
+Smart Media CRM system - Oracle CRM/Portal for customer service agents, Siebel JavaScript, also covering workflow development
+Portal/Website - Drupal - PHP?????
+Back End - Oracle SQL Developer - Oracle 11g
+
+2) Analysis
+- Create FRS from BRS - 1 week
+-FRS signed and approved - 1 week
+- Knowledge Transfer Sessions - 7/8 days
+- Risk Analysis - 3 days - ?
+
+3) Design
+
+- HLD, LLD -  2 weeks
+  - DB Schema
+	- Website Design
+	- CRM System Design
+
+- Preparation of test plan - 1 weeks - Simultaneously with previous
+- Verification of test plan - 1 week 
+
+4) Development
+
+- Development of Environment
+	- Oracle CRM/ Portal for customer Service agents
+		- Acess Rights Setup for Agents - 2 days
+		- Customer Service Request Module, Customer Data Management & Update Third party Data sources - 10 days
+		- Allow Bulk update from CRM System & Handle bulk claims & change requests (WF) - 1 week
+		- Dispute Management Module - 1 week
+		- 
+
+	- Website
+	- DB Setup
+
+
+********************************************
+Final Task List & Estimates
+********************************************
+
+1) Planning
+- Prepare project Plan  - 1 week
+- Submit & get approval for Project Plan  3-4 days
+- Project Kick-off Meeting - 1 day
+- Decide on hardware & software requirements - > 2 days
+
+******************************************************
+==================================================
+Website - JDeveloper (for that matter any Java)
+Smart Media CRM system - Oracle CRM version 8.1.1 - Business Logic in JavaScript
+Back End - Oracle SQL Developer - Oracle 11g
+Defect Management & Test Case Writing - Mercury Quality Centre
+Version Control System for Project - GitHub
+Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams)
+==================================================
+*******************************************************
+
+2) Analysis
+- Create FRS from BRS - 1 week
+- FRS signed and approved - 1 week
+- Knowledge Transfer Sessions - 7/8 days
+- Risk Analysis - 3 days
+
+3) Design
+
+- HLD, LLD -  2 weeks
+  	- DB Schema
+  	- Website Design
+	- CRM System Design
+
+- Preparation of test plan - 1 weeks - Simultaneously with previous
+- Verification of test plan - 1 week 
+
+4) Development
+
+- Development of Environment
+	 - DB Setup
+		- Create and initialize customized tables & manage relationships - 5 days
+		- DB Access Rights - 3 days
+		- Testing of DB Setup - 1/2 day(s)
+		- Creating a repository of electronic documents & indexing - 3 days
+
+         - Portal for customers/business users/third party users (1.6) 
+		- Access Rights Setup for Agents/customers - 2 days
+		- Development of Registration Form (Mandate Registration) - 3 days
+		- Development of Home Page - 3 days
+		- Development of Funding/Payment History Interface - 5 days
+		- Development of Help component - 2 days
+		- Development of Claim webpage- 5 days
+		- Development of Dispute webpage - 4 days
+		- Development of Search webpage- 2 days
+		- Development of Query webpage/FAQs page - 2 days
+		- Development of Reporting webpage - 3 days
+		- Development of electronic Docs webapge - 2 days
+		** Development of contractual requirements webpage - 1 Day
+		**Development of page for potential customers (Campaign Management)  - 1 Day
+		
+		
+	  - Oracle CRM Development
+		**Customer tab in CRM system will have under it tabs named as - "Claims", "Disputes", "Payment History", Contact Details", "Query Management" - 3 days
+		**Development of webpage to display registered users and placeholders for unregistered users - 5 days
+		- Development of Customer Service Request Module - 4 days
+		- Update Third party Data sources - 3 days
+		- Prioritise potential customers(Campaign Management) - 2 Days	
+		- Handle bulk claims & change requests - 1 week
+		- Customer correspondence management (It will also cover updates to DB, payment calculation, dispute, claims) - 2 weeks
+		**Auditing changes to data - 3 days
+
+- Testing (In parallel with coding) 
+	- Unit Testing - 2/3 weeks
+	- Regression Testing - 1 week
+	- Integration Testing - 1 week 
+	- System Testing - 2 weeks
+	- Security Testing - 10 days
+	- Scalability & Synchronization Testing - 1 week
+	- Performance Testing - 5 days
+
+Along with defect fixing. 
+
+
+- Code Deployment - 1 day
+
+- CAT + Defect Fixing -  2 weeks 
+
+
+Base Plan 
+
+Planning - 14 days
+Analysis - 28 days
+Design - 14 days
+Development - 40 days + Testing - 76 days
+Deployment & Acceptance Testing - 15 days
+- Go Live 
+
+What about maintainence?
