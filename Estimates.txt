@@ -78,7 +78,7 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 
 4) Execution
 
-- Knowledge Transfer Sessions - 7/8 days
+- Knowledge Transfer Sessions - 7/8 days (DB SetUp can ago along with this one)
 - Development of Environment
 	 - DB Setup
 		- Create and initialize customized tables & manage relationships - 5 days
@@ -104,12 +104,12 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 		
 	  - Oracle CRM Development
 		**Customer tab in CRM system will have under it tabs named as - "Claims", "Disputes", "Payment History", Contact Details", "Query Management" - 3 days
-		**Development of webpage to display registered users and placeholders for unregistered users - 3 days
+		**Development of webpage to display registered users and placeholders for unregistered users - 1 day
 		- Development of Customer Service Request Module - 4 days
 		- Update Third party Data sources - 3 days
 		- Prioritise potential customers(Campaign Management) - 2 Days	
-		- Handle bulk claims & change requests - 1 week
-		- Customer correspondence management (It will also cover updates to DB, payment calculation, dispute, claims) - 2 weeks
+		- Handle bulk claims & change requests - 5 days
+		- Customer correspondence management (It will also cover updates to DB, payment calculation, dispute, claims) - 10 days
 		**Auditing changes to data - 3 days
 
 - Preparation of test plan - 1 week - Simultaneously with previous
@@ -117,13 +117,13 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 
 - Install Development System - 1 Day
 
-- Testing (In parallel with coding) 
-	- Unit Testing - 2/3 weeks
-	- Regression Testing - 1 week
-	- Integration Testing - 1 week 
-	- System Testing - 2 weeks
-	- Security Testing - 10 days
-	- Scalability & Synchronization Testing - 1 week
+- Testing (In parallel with coding)  - 50 days
+	- Unit Testing - 2/3 weeks - to be included during development phase - 15 days
+	- Regression Testing - 3 days
+	- Integration Testing - 2 days 
+	- System Testing - 2 weeks - 10 days
+	- Security Testing - 2 weeks - 10 days
+	- Scalability & Synchronization Testing - 1 week - (5 days excluding weekends)
 	- Performance Testing - 5 days
 
 Along with defect fixing. 
@@ -143,10 +143,11 @@ Along with defect fixing.
 Base Plan 
 
 Planning - 14 days
-Analysis - 28 days
-Design - 14 days
-Development - 40 days + Testing - 76 days
+Analysis - 18 days
+Design - 17 days
+Development - 40 days + Testing - 75 days
 Deployment & Acceptance Testing - 15 days
-- Go Live 
+Project Management - 3 days
+
 
 What about maintainence?
