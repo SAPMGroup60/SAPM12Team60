@@ -61,11 +61,11 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 ==================================================
 *******************************************************
 
-2) Analysis
+2) Analysis & Preparation phase
 - Create FRS from BRS - 1 week
 - FRS signed and approved - 1 week
-- Knowledge Transfer Sessions - 7/8 days
 - Risk Analysis - 3 days
+- Software & Hardware configuration - 1 day
 
 3) Design
 
@@ -73,27 +73,27 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
   	- DB Schema
   	- Website Design
 	- CRM System Design
+- Preparation of Use Case/Class/Activity diagram - 3 days
 
-- Preparation of test plan - 1 weeks - Simultaneously with previous
-- Verification of test plan - 1 week 
 
-4) Development
+4) Execution
 
+- Knowledge Transfer Sessions - 7/8 days
 - Development of Environment
 	 - DB Setup
 		- Create and initialize customized tables & manage relationships - 5 days
-		- DB Access Rights - 3 days
+		- DB Access Rights - 2 days
 		- Testing of DB Setup - 1/2 day(s)
 		- Creating a repository of electronic documents & indexing - 3 days
 
          - Portal for customers/business users/third party users (1.6) 
 		- Access Rights Setup for Agents/customers - 2 days
-		- Development of Registration Form (Mandate Registration) - 3 days
+		- Development of Registration Form (Mandate Registration) - 2 days
 		- Development of Home Page - 3 days
-		- Development of Funding/Payment History Interface - 5 days
+		- Development of Funding/Payment History Interface - 4 days
 		- Development of Help component - 2 days
-		- Development of Claim webpage- 5 days
-		- Development of Dispute webpage - 4 days
+		- Development of Claim webpage- 3 days
+		- Development of Dispute webpage - 3 days
 		- Development of Search webpage- 2 days
 		- Development of Query webpage/FAQs page - 2 days
 		- Development of Reporting webpage - 3 days
@@ -104,13 +104,18 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 		
 	  - Oracle CRM Development
 		**Customer tab in CRM system will have under it tabs named as - "Claims", "Disputes", "Payment History", Contact Details", "Query Management" - 3 days
-		**Development of webpage to display registered users and placeholders for unregistered users - 5 days
+		**Development of webpage to display registered users and placeholders for unregistered users - 3 days
 		- Development of Customer Service Request Module - 4 days
 		- Update Third party Data sources - 3 days
 		- Prioritise potential customers(Campaign Management) - 2 Days	
 		- Handle bulk claims & change requests - 1 week
 		- Customer correspondence management (It will also cover updates to DB, payment calculation, dispute, claims) - 2 weeks
 		**Auditing changes to data - 3 days
+
+- Preparation of test plan - 1 week - Simultaneously with previous
+- Verification of test plan - 1 week 
+
+- Install Development System - 1 Day
 
 - Testing (In parallel with coding) 
 	- Unit Testing - 2/3 weeks
@@ -126,8 +131,14 @@ Along with defect fixing.
 
 - Code Deployment - 1 day
 
-- CAT + Defect Fixing -  2 weeks 
+- Customer Acceptance Testing + Defect Fixing -  2 weeks 
 
+
+5} Project Management 
+
+- Status meetings - during the development life cycle
+- Project Documentation - 2 days
+ - Quality Assurance Check - 1 day
 
 Base Plan 
 
