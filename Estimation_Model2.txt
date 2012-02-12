@@ -1,0 +1,199 @@
+The cost estimation model used to determine the time estimates for this project is ※Wideband Delphi§ estimation model which was developed in the 1990s by Mary Sakry and Neil Potter of The Process Group [1]. 
+
+Using this estimation model, the project developed a consensus about the estimates among the different teams who were involved in the development of the project. A work break down structure was developed during this model, which was used by team members to estimate the time taken to complete their respective tasks. The basic course of this estimation model can be listed as follows 每 
+	
+   1) Choose the team 每 The project manager forms a team of members from different teams involved in the project. A moderator was assigned who took care of monitoring the estimates. 	   	      We choose a team of 4 members, selecting 3 members from project management team, development and test team and a moderator. 
+
+   2) Kickoff Meeting 每 A meeting was arranged between the team members under the supervision of the moderator. Various aspects of the project life-cycle were discussed and taking 	   	      into consideration all factors/tasks and a Work Breakdown Structure (WBS) was created. 
+
+   3) Individual Preparation 每 After the WBS is in place, each member of the team was given time to estimate for individual task in the WBS. Estimates were prepared based on prior 	  	      experience, knowledge and shortcomings. Any additional assumptions which were missed during the initial estimation are added to the WBS.
+
+   4) Estimation Session 每 The moderator holds a meeting with all the members to bring a consensus on the estimated timescales defined for every task. This is an iterative process, 	   	      where the team members discuss whether they agree/disagree on the estimates, resolve issues and decide on one final estimate for each task. The cycle repeats until every 	   	      estimator doesn＊t want to change his/her estimates.
+
+   5) Assemble tasks 每 The project manager now assembles all the estimates and prepares a final list of estimates, assumptions and tasks list.
+
+   6) Review 每 The final step is to review the tasks list with the estimation team.
+
+
+In this case, the team of making estimation includes all of us six members, because this can make sure that the estimation is based every one's experience, knowledge, and effort. About this project, to make a list of tasks has been done in the first step of the assignment through each member's effort. Every member estimates the time needed for addressing each task in terms of every one's experience, knowledge, special skill and shortcoming, etc. In the meeting held by the team leader, all members discuss the time each member estimated, then have a consensus on the estimation for each task. This is an efficient and practical model for estimation, especially, like our team that every one is not familiar with each other, no more than that a member can work out a estimation accepted by every one. Therefore, to let every one offer their opinion then discuss and reach the agreement is the most appropriate model for estimation in this circumstance.
+
+
+Advantages of the Delphi Estimation Process
+
+The participants can't be directly influenced
+Information exchange among the participants
+Conducive to independent thinking and gradual formulation
+Respondent panel provides broad analytical perspective on problems and issues
+Can be used to reach consensus among groups hostile towards each other
+
+Disadvantages of the Delphi Estimation Process
+
+Estimations are subjective, and may be different from the prevailing opinion
+The process tries to find the middle position even if the "right" one is an extreme position
+More time-consuming than nominal group process
+Requires skill in written communication
+Requires adequate time and participant commitment (may require 30 to 45 days to complete entire process)!!!
+
+
+Estimation for Smart Media Ltd 每 
+********************************************
+Final Task List & Estimates
+********************************************
+
+1) Planning
+- Prepare project Plan - 1 week
+- Submit & get approval for Project Plan - 3-4 days
+- Project Kick-off Meeting - 1 day
+- Decide on hardware & software requirements - > 2 days
+
+
+
+
+******************************************************
+==================================================
+Website - JDeveloper (for that matter any Java)
+Smart Media CRM system - Oracle CRM version 8.1.1 - Business Logic in JavaScript
+Back End - Oracle SQL Developer - Oracle 11g
+Defect Management & Test Case Writing - Mercury Quality Centre
+Version Control System for Project - GitHub
+Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams)
+==================================================
+*******************************************************
+
+2) Analysis & Preparation phase
+- Create FRS from BRS - 1 week
+- FRS signed and approved - 1 week
+- Risk Analysis - 3 days
+- Software & Hardware configuration - 1 day
+
+3) Design
+
+- HLD, LLD - 2 weeks
+  	- DB Schema
+  	- Website Design
+	- CRM System Design
+- Preparation of Use Case/Class/Activity diagram - 3 days
+
+
+4) Implementation
+
+- Knowledge Transfer Sessions - 7/8 days (DB Setup can ago along with this one)
+- Development of Environment  //--Thanos---> That's wrong.. http://en.wikipedia.org/wiki/Development_environment .
+	 - DB Setup //---Thanos---> which DB?
+		- Create and initialize customized tables & manage relationships - 5 days
+		- DB Access Rights - 2 days
+		- Testing of DB Setup - 1/2 day(s) // ------Thanos--> Does not agree with the Iterative and incremental development (UP) ....
+		- Creating a repository of electronic documents & indexing - 3 days
+
+        - Portal for customers/business users/third party users (1.6) // -----Thanos-> 1.6?
+		- Access Rights Setup for Agents/customers - 2 days // ---Thanos----> What do you mean?
+		- Development of Registration Form (Mandate Registration) - 2 days
+		- Development of Home Page - 3 days
+		- Development of Funding/Payment History Interface - 4 days
+		- Development of Help component - 2 days
+		- Development of Claim webpage- 3 days
+		- Development of Dispute webpage - 3 days
+		- Development of Search webpage- 2 days 
+		- Development of Query webpage/FAQs page - 2 days
+		- Development of reporting webpage - 3 days
+		- Development of electronic Docs webpage - 2 days
+		** Development of contractual requirements webpage - 1 Day
+		**Development of page for potential customers (Campaign Management)  - 1 Day
+		
+		
+	  - Oracle CRM Development
+		**Customer tab in CRM system will have under it tabs named as - "Claims", "Disputes", "Payment History", Contact Details", 
+"Query Management" - 3 days
+		**Development of webpage to display registered users and placeholders for unregistered users - 1 day
+		- Development of Customer Service Request Module - 4 days
+		- Update Third party Data sources - 3 days
+		- Prioritize potential customers(Campaign Management) - 2 Days	
+		- Handle bulk claims & change requests - 5 days
+		- Customer correspondence management (It will also cover updates to DB, payment calculation, dispute, claims) - 10 days
+		**Auditing changes to data - 3 days
+
+- Preparation of test plan - 1 week - Simultaneously with previous
+- Verification of test plan - 1 week 
+
+- Install Development System - 1 Day
+
+- Testing (In parallel with coding) - 50 days
+	- Unit Testing - 2/3 weeks - to be included during development phase - 15 days
+	- Regression Testing - 3 days
+	- Integration Testing - 2 days 
+	- System Testing - 2 weeks - 10 days
+	- Security Testing - 2 weeks - 10 days
+	- Scalability & Synchronization Testing - 1 week - (5 days excluding weekends)
+	- Performance Testing - 5 days
+
+Along with defect fixing
+
+- Code Deployment - 1 day
+
+- Customer Acceptance Testing + Defect Fixing - 2 weeks 
+
+
+5} Project Management 
+
+- Status meetings - during the development life cycle
+- Project Documentation - 2 days
+ - Quality Assurance Check - 1 day
+
+
+
+Base Plan 
+
+Planning - 14 days
+Analysis - 18 days
+Design - 17 days
+Development - 40 days + Testing - 75 days
+Deployment & Acceptance Testing - 15 days
+Project Management - 3 days
+
+
+References 每 
+http://www.stellman-greene.com/aspm/content/view/23/38/
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+Considering that the Wideband Delphi model requires the opinion of all the members, each team member independently should generate a set of preparation results, an estimate for each of the tasks and probable assumptions that the team member made in order to create stimates and any additional taks that should be included in the WBS but that the team missed during kickoff meeting. each team member builds preparation results by first filling in the tasks and then estimating the effort for each task. An estimate for each Task should be added to the TASKS TO ACHIEVE GOAL section of the preparation results, the TIME column should contain the estimate for each task
+So each team member should have filled two forms like the following
+
+First card
+*******************************************************************
+Task list
+ 
+Tasks to achieve goal			Time
+	'
+	'
+	'
+Calendar waiting time delays
+	'
+	'
+	'
+	'
+Project overhead tasks
+	'	
+	'
+	'
+	'
+*******************************************************************
+
+Second Card 
+******************************************************************************
+Name: 		Date: 		Estimation form:
+Goal statement:				Units(days, hours, months):
+Category(to choose): 1.goal tasks 2.quality tasks 3.waiting time 4.project 									overhead
+
+WBS#or priority--Task name-- Est--Delta1-- D2-- D3-- D4-- Total--Assumptions
+	'		'	'	'	'	'	'	'
+	'		'	'	'	'	'	'	'	
+	'		'	'	'	'	'	'	'
+	'		'	'	'	'	'	'	'
+	'		'	'	'	'	'	'	'
+	'		'	'	'	'	'	'	'
+********************************************************************************
+
+
+
+
+
