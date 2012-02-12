@@ -75,7 +75,7 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 - Preparation of Use Case/Class/Activity diagram - 3 days
 
 
-4) Execution
+4) Implementation
 
 - Knowledge Transfer Sessions - 7/8 days (DB Setup can ago along with this one)
 - Development of Environment
