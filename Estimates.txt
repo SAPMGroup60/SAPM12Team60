@@ -45,8 +45,8 @@ Final Task List & Estimates
 ********************************************
 
 1) Planning
-- Prepare project Plan  - 1 week
-- Submit & get approval for Project Plan  3-4 days
+- Prepare project Plan  - 7 days
+- Submit & get approval for Project Plan  4 days
 - Project Kick-off Meeting - 1 day
 - Decide on hardware & software requirements - > 2 days
 
@@ -58,32 +58,37 @@ Back End - Oracle SQL Developer - Oracle 11g
 Defect Management & Test Case Writing - Mercury Quality Centre
 Version Control System for Project - GitHub
 Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams)
+Testing Software - 
 ==================================================
 *******************************************************
+**2)Resource Planning - 7 days
+
 
 2) Analysis & Preparation phase
-- Create FRS from BRS - 1 week
-- FRS signed and approved - 1 week
+- Create FRS from BRS - 7 days
+- FRS signed and approved - 7 days
 - Risk Analysis - 3 days
-- Software & Hardware configuration - 1 day
+- Software & Hardware configuration - 7 day
 
 3) Design
 
-- HLD, LLD -  2 weeks
+- Design of HLD from FRS - 7days, 
+- Design of LLD from HLD-  7 days
   	- DB Schema
   	- Website Design
 	- CRM System Design
-- Preparation of Use Case/Class/Activity diagram - 3 days
+        
+- Preparation of Use Case/Class/Activity diagram (I haven't added it into Gantt Chart as HLD contains them)
 
 
-4) Execution
+4) Knowledge Transfer
 
-- Knowledge Transfer Sessions - 7/8 days (DB SetUp can ago along with this one)
+- Knowledge Transfer Sessions - 7/8 days (DB SetUp can go along with this one)
 - Development of Environment
 	 - DB Setup
 		- Create and initialize customized tables & manage relationships - 5 days
 		- DB Access Rights - 2 days
-		- Testing of DB Setup - 1/2 day(s)
+		- Testing of DB Setup - 1 day
 		- Creating a repository of electronic documents & indexing - 3 days
 
          - Portal for customers/business users/third party users (1.6) 
@@ -112,10 +117,10 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 		- Customer correspondence management (It will also cover updates to DB, payment calculation, dispute, claims) - 10 days
 		**Auditing changes to data - 3 days
 
-- Preparation of test plan - 1 week - Simultaneously with previous
-- Verification of test plan - 1 week 
+- Preparation of Test Cases - 2 week - Simultaneously with previous
+- Verification and Approval of Test Cases - 1 week 
 
-- Install Development System - 1 Day
+- Install Development System - 1 Day (what is this??..ankita)
 
 - Testing (In parallel with coding)  - 50 days
 	- Unit Testing - 2/3 weeks - to be included during development phase - 15 days
@@ -126,12 +131,12 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 	- Scalability & Synchronization Testing - 1 week - (5 days excluding weekends)
 	- Performance Testing - 5 days
 
-Along with defect fixing. 
+Along with bug fixing. 
 
 
 - Code Deployment - 1 day
 
-- Customer Acceptance Testing + Defect Fixing -  2 weeks 
+- Customer Acceptance Testing and Defect Fixing -  2 weeks 
 
 
 5} Project Management 
