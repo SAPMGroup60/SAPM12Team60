@@ -18,6 +18,22 @@ Using this estimation model, the project developed a consensus about the estimat
 In this case, the team of making estimation includes all of us six members, because this can make sure that the estimation is based every one's experience, knowledge, and effort. About this project, to make a list of tasks has been done in the first step of the assignment through each member's effort. Every member estimates the time needed for addressing each task in terms of every one's experience, knowledge, special skill and shortcoming, etc. In the meeting held by the team leader, all members discuss the time each member estimated, then have a consensus on the estimation for each task. This is an efficient and practical model for estimation, especially, like our team that every one is not familiar with each other, no more than that a member can work out a estimation accepted by every one. Therefore, to let every one offer their opinion then discuss and reach the agreement is the most appropriate model for estimation in this circumstance.
 
 
+Advantages of the Delphi Estimation Process
+
+The participants can't be directly influenced
+Information exchange among the participants
+Conducive to independent thinking and gradual formulation
+Respondent panel provides broad analytical perspective on problems and issues
+Can be used to reach consensus among groups hostile towards each other
+
+Disadvantages of the Delphi Estimation Process
+
+Estimations are subjective, and may be different from the prevailing opinion
+The process tries to find the middle position even if the "right" one is an extreme position
+More time-consuming than nominal group process
+Requires skill in written communication
+Requires adequate time and participant commitment (may require 30 to 45 days to complete entire process)!!!
+
 
 Estimation for Smart Media Ltd ¨C 
 ********************************************
