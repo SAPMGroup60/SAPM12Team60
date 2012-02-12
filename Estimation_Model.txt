@@ -75,25 +75,25 @@ Software used - MS Office (LLD, HLD), Rational Rose (Use Case, Activity Diagrams
 - Preparation of Use Case/Class/Activity diagram - 3 days
 
 
-4) Execution
+4) Implementation
 
 - Knowledge Transfer Sessions - 7/8 days (DB Setup can ago along with this one)
-- Development of Environment
-	 - DB Setup
+- Development of Environment  //--Thanos---> That's wrong.. http://en.wikipedia.org/wiki/Development_environment .
+	 - DB Setup //---Thanos---> which DB?
 		- Create and initialize customized tables & manage relationships - 5 days
 		- DB Access Rights - 2 days
-		- Testing of DB Setup - 1/2 day(s)
+		- Testing of DB Setup - 1/2 day(s) // ------Thanos--> Does not agree with the Iterative and incremental development (UP) ....
 		- Creating a repository of electronic documents & indexing - 3 days
 
-         - Portal for customers/business users/third party users (1.6) 
-		- Access Rights Setup for Agents/customers - 2 days
+        - Portal for customers/business users/third party users (1.6) // -----Thanos-> 1.6?
+		- Access Rights Setup for Agents/customers - 2 days // ---Thanos----> What do you mean?
 		- Development of Registration Form (Mandate Registration) - 2 days
 		- Development of Home Page - 3 days
 		- Development of Funding/Payment History Interface - 4 days
 		- Development of Help component - 2 days
 		- Development of Claim webpage- 3 days
 		- Development of Dispute webpage - 3 days
-		- Development of Search webpage- 2 days
+		- Development of Search webpage- 2 days 
 		- Development of Query webpage/FAQs page - 2 days
 		- Development of reporting webpage - 3 days
 		- Development of electronic Docs webpage - 2 days
