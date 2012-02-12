@@ -137,3 +137,47 @@ Project Management - 3 days
 
 References ¨C 
 http://www.stellman-greene.com/aspm/content/view/23/38/
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+Considering that the Wideband Delphi model requires the opinion of all the members, each team member independently should generate a set of preparation results, an estimate for each of the tasks and probable assumptions that the team member made in order to create stimates and any additional taks that should be included in the WBS but that the team missed during kickoff meeting. each team member builds preparation results by first filling in the tasks and then estimating the effort for each task. An estimate for each Task should be added to the TASKS TO ACHIEVE GOAL section of the preparation results, the TIME column should contain the estimate for each task
+So each team member should have filled two forms like the following
+
+First card
+*******************************************************************
+Task list
+ 
+Tasks to achieve goal			Time
+	'
+	'
+	'
+Calendar waiting time delays
+	'
+	'
+	'
+	'
+Project overhead tasks
+	'	
+	'
+	'
+	'
+*******************************************************************
+
+Second Card 
+******************************************************************************
+Name: 		Date: 		Estimation form:
+Goal statement:				Units(days, hours, months):
+Category(to choose): 1.goal tasks 2.quality tasks 3.waiting time 4.project 									overhead
+
+WBS#or priority--Task name-- Est--Delta1-- D2-- D3-- D4-- Total--Assumptions
+	'		'	'	'	'	'	'	'
+	'		'	'	'	'	'	'	'	
+	'		'	'	'	'	'	'	'
+	'		'	'	'	'	'	'	'
+	'		'	'	'	'	'	'	'
+	'		'	'	'	'	'	'	'
+********************************************************************************
+
+
+
+
+
