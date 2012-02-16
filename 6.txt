@@ -1,0 +1,572 @@
+commit 40cc2c161e5f4606b471d4b8a2b77311d30fde6a
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Wed Feb 15 23:49:42 2012 +0000
+
+    Final changes for Gantt after EM Change
+
+commit 43701a9517c8c4251ea57f20694271c3203279a7
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Wed Feb 15 23:49:11 2012 +0000
+
+    Final changes after EM Change
+
+commit 40cc2c161e5f4606b471d4b8a2b77311d30fde6a
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Wed Feb 15 23:49:42 2012 +0000
+
+    Final changes for Gantt after EM Change
+
+commit 43701a9517c8c4251ea57f20694271c3203279a7
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Wed Feb 15 23:49:11 2012 +0000
+
+    Final changes after EM Change
+
+commit 07952dcfd006d39bfba757c0e43e3b5130c5fd6f
+Merge: 1c6523b df1203e
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Wed Feb 15 23:01:00 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 1c6523bb44a1620f9cf169f5b9f44c95779a7005
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Wed Feb 15 22:59:00 2012 +0000
+
+    Peer-review Estimation Model
+
+commit df1203e21de325e5209034cc12353b9b4bed7988
+Merge: b06b40e 49141c7
+Author: Angad <angadsuresh@gmail.com>
+Date:   Wed Feb 15 21:45:36 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit b06b40e58464f6e782adba7ad18a20e3ab4004be
+Author: Angad <angadsuresh@gmail.com>
+Date:   Wed Feb 15 21:44:45 2012 +0000
+
+    reviewed on 15/02/2012
+
+commit 49141c79077a5a4342b3cad85281e1f8269b57ee
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Wed Feb 15 21:11:01 2012 +0000
+
+    Adding documentation to Gantt Chart
+
+commit 894e001ab7dd90acc08e47a88dc9244c42bb6b4f
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Wed Feb 15 19:16:19 2012 +0000
+
+commit 10d89ce44c5ee242e41b5ed8263ba67f5b277afb
+Author: Angad <angadsuresh@gmail.com>
+Date:   Wed Feb 15 12:41:47 2012 +0000
+
+    Final Estimation_Model Doc
+
+commit 48fd5c59f062fda7798805389950d46159d66f2d
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Wed Feb 15 00:06:12 2012 +0000
+
+    hope the final one...
+
+commit f993bac60284006f7096fea6d8e3a08adc7a59d3
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Tue Feb 14 21:59:25 2012 +0000
+
+    Modified Gantt Chart
+
+commit 524204b157296f57fbb045d0de3dfe70e5e4e190
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Tue Feb 14 12:51:22 2012 +0000
+
+    Adding modified gantt chart
+
+commit 09bc369c6c7a939a1ac94e3c090cc048cf19d160
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Tue Feb 14 12:50:06 2012 +0000
+
+    Adding network diagram
+
+commit bcd4c821238d6c65bc8e1144fb966ab56c81f753
+Author: Angad <angadsuresh@gmail.com>
+Date:   Tue Feb 14 09:42:30 2012 +0000
+
+    Updated WBS on 14/02/2012
+
+commit c9bccf0995e22fb5ff3e33beda52173aa6fcb4e8
+Author: s1149490 <A.Mitra@sms.ed.ac.uk>
+Date:   Mon Feb 13 19:05:17 2012 +0000
+
+    Estimation Spreadsheet
+
+commit 1551079fb7fd83ccae9136284cecf7716d5096db
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Sun Feb 12 21:26:42 2012 +0000
+
+    athinaa
+
+commit bca4e83a2a8698890bd8ccec12c724932104c9ef
+Merge: 8de36af 86d0a90
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Sun Feb 12 16:35:28 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 86d0a90d7f744ba640716ff9420f7e90be0cedc9
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sun Feb 12 16:34:29 2012 +0000
+
+    Some questions
+
+commit 8de36af4be04124a278290144c236582abe76bba
+Merge: dc7315a f4fa6d3
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Sun Feb 12 16:26:00 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit a568e68d9bb4a68a294f40cac084896144e8c1dc
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sun Feb 12 16:18:36 2012 +0000
+
+    I change Execution to Implementation..
+
+commit dc7315a8b7af610411c3e1a7eb81780b0abad7fd
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Sun Feb 12 15:49:27 2012 +0000
+
+    cards for Delphi model
+
+commit f4fa6d33ed962a605aa0b47c6259b1ef7e69514d
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sun Feb 12 15:46:10 2012 +0000
+
+    I added some things that will help for the documentation
+
+commit 225cb4847b979ad6492cdbd7f7e20e5c7dc2744e
+Author: Hao Zhao <Hao@pc-1-29.customer.iqgrove.quintain.lan>
+Date:   Sun Feb 12 13:10:32 2012 +0000
+
+    Estimation_Model
+
+commit 881395a1746bff8b0404dcff299bd39206e34c58
+Author: s1149490 <A.Mitra@sms.ed.ac.uk>
+Date:   Sun Feb 12 12:22:20 2012 +0000
+
+
+    Draft Gantt Chart
+
+commit e465045144d03f587e53a7d3a37aac5355622891
+Author: s1149490 <A.Mitra@sms.ed.ac.uk>
+Date:   Sun Feb 12 12:04:15 2012 +0000
+
+    I have made some changes to Estimates.txt while preparing the Gantt Chart
+
+commit b67d55888fde4b129681efd0afd4f6ab3071b392
+Author: Angad <angadsuresh@gmail.com>
+Date:   Sat Feb 11 15:27:29 2012 +0000
+
+    Changes made on 11.02.2012
+
+commit 21362bae8fe6609e35bb7c2a39a71f554d1834d0
+Author: Angad <angadsuresh@gmail.com>
+Date:   Sat Feb 11 01:06:32 2012 +0000
+
+    Changes made to Estimates.txt & WBS_Final.jpg
+
+commit 73a67c66786e0744cd9711d661ed66c41d2ef3b8
+Author: Angad <angadsuresh@gmail.com>
+Date:   Sat Feb 11 00:40:32 2012 +0000
+
+    Final & Modified WBS
+
+commit 135984d5028f82d1bf501b2b94b9b85713d82bab
+Author: Angad <angadsuresh@gmail.com>
+Date:   Fri Feb 10 12:40:47 2012 +0000
+
+    Deleted example_ankita.txt
+
+commit 0a8de95846091a8028774c10ba29494cd2f9c683
+Author: Angad <angadsuresh@gmail.com>
+Date:   Fri Feb 10 12:38:21 2012 +0000
+
+    Deleted file test.txt
+
+commit c73954812fe07bccb6d2375cf82753e432c84e88
+Author: Angad <angadsuresh@gmail.com>
+Date:   Fri Feb 10 12:36:22 2012 +0000
+
+    Log of GitHub
+
+commit c4cb9c92cf9930c571c394ec88773ab77fb5ca4a
+Author: Angad <angadsuresh@gmail.com>
+Date:   Fri Feb 10 12:35:39 2012 +0000
+
+
+    Added command to get Log
+
+commit db6981f934e4645b7f693f32006ce63c06e86dfb
+Merge: fa6a8ec d5139a9
+Author: Angad <angadsuresh@gmail.com>
+Date:   Fri Feb 10 11:54:20 2012 +0000
+
+    Modified some tasks on 10/02/2012
+
+commit d5139a97b2cbf9334fa564cf0b94f4362258c4c7
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 9 17:19:16 2012 +0000
+
+    Update Estimates.txt
+
+commit a9fae3eb3200887ab496e18b97529b0c305aa120
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 9 15:18:34 2012 +0000
+
+    Update Estimates.txt
+
+commit c18d5de70a859f7f41a8c89ed7848033bd058c88
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Wed Feb 8 13:27:40 2012 +0000
+
+    Thanaos: I answered Angad's questions.
+
+commit fa6a8ec2eb07ae2609241e6c635d80d454b9446c
+Author: Angad <angadsuresh@gmail.com>
+Date:   Wed Feb 8 11:29:49 2012 +0000
+
+    ath.txt is now removed
+
+commit 406e53ad8330f19dd96e240733c25cbed92f0470
+Author: Angad <angadsuresh@gmail.com>
+Date:   Wed Feb 8 11:26:16 2012 +0000
+
+    Report.txt deleted
+
+commit baf4e64f692cb54b7f08368081ea66245c4f5dbe
+Author: Angad <angadsuresh@gmail.com>
+Date:   Wed Feb 8 11:15:56 2012 +0000
+
+    Deleted unnecessary files from the repository
+
+commit 670dd0b3c97a5687b2079b145ccc975659d5844d
+Author: Angad <angadsuresh@gmail.com>
+Date:   Wed Feb 8 11:04:13 2012 +0000
+
+    Tasks modified by Angad
+
+commit c0bc9814b81f35455dfd37d630ff7886d639da4d
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Wed Feb 8 03:22:27 2012 +0000
+
+    Thanos and Athina
+
+commit 2f99c2281fb9d2c8a094c62eea8d3c50a32eedf7
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Tue Feb 7 17:34:50 2012 +0000
+
+    Update Tasks.txt
+
+commit bcc8e24a765f528831624b87bf78b160510f783e
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Tue Feb 7 16:23:12 2012 +0000
+
+    athina last changes
+
+commit 394cbe7046a51cbcf54ec79d7e1d0fbe7cf7019e
+Merge: 473a8ba 67d9721
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Tue Feb 7 16:20:04 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 67d97212a585a2457b29c89b660b73bd3f666af6
+Author: Angad <angadsuresh@gmail.com>
+Date:   Tue Feb 7 16:17:15 2012 +0000
+
+    WBS Diagram
+
+commit 473a8bac3f0734a71b8da22ad7e46ab8439bcb37
+Merge: 6eb51cd ef897d0
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Tue Feb 7 16:05:46 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit ef897d01c55b53404b01696c62abfb8fe27593dd
+Author: s1149490 <A.Mitra@sms.ed.ac.uk>
+Date:   Tue Feb 7 15:33:46 2012 +0000
+
+    Manage Disputes and Manage Queries tasks
+commit 6eb51cd39f2ecfb8df9bbe4620c5a7532cd0f519
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Tue Feb 7 15:28:53 2012 +0000
+
+    some thoughts about the whole task-staff
+
+commit 6745d7e50e59c95458cf6cb5ce895a40416c4734
+Author: unknown <ankita@ankita-VAIO.(none)>
+Date:   Tue Feb 7 15:16:29 2012 +0000
+
+    Manage disputes and Manage query tasks
+
+commit d8872702005f5f171847841362f0cb8b9e2b0ee6
+Merge: f570f73 86dc560
+Author: unknown <ankita@ankita-VAIO.(none)>
+Date:   Tue Feb 7 14:46:22 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 86dc560a80b0d70fb2d2005180149c4e1c9808e0
+Author: Hao Zhao <Hao@c112224.wlan.net.ed.ac.uk>
+Date:   Tue Feb 7 11:56:26 2012 +0000
+
+    Tasks.txt
+
+commit f570f7309375d7089d412cf061e981610ea9c8bc
+Merge: cda9b5a 0109327
+Author: unknown <ankita@ankita-VAIO.(none)>
+Date:   Mon Feb 6 15:18:32 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 0109327860c49a7bae7150184ba398a39004b383
+Author: Angad <angadsuresh@gmail.com>
+Date:   Sun Feb 5 19:04:38 2012 +0000
+
+    Report
+
+commit f0d7b3b255d4a858725308c001798d1625cf7956
+Author: Angad <angadsuresh@gmail.com>
+Date:   Sat Feb 4 15:11:31 2012 +0000
+
+    Added tasks
+
+commit 5355da555d57569d6fa306393e1efa491a213f53
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sat Feb 4 15:00:56 2012 +0000
+
+    I transferred here the tasks from the task file.
+
+commit e78e4c9eb75a3ebff46cabfcb6b025efea53a16c
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sat Feb 4 14:59:42 2012 +0000
+
+    No significant change
+
+commit c3943bcdc76cb69a503563391b82c44992750935
+Merge: a7b46ab 83561c2
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sat Feb 4 14:55:07 2012 +0000
+
+    Merge branch 'master' of ssh://git@github.com/SAPMGroup60/SAPM12Team60.git
+
+commit a7b46ab13c377a69309c56bed40c62748c913447
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sat Feb 4 14:44:48 2012 +0000
+
+    Another check
+
+commit 83561c2ed5859eb73bd3d765128b31bcbb9dbb24
+Merge: 4abb0be d1a034a
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Sat Feb 4 14:30:04 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 4abb0be68d33e51d78f8fdd0f79874fe8b7e5599
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Sat Feb 4 14:27:59 2012 +0000
+
+    mmm
+
+commit d9539eb939f006968e0221e5678b968dfc87ffaf
+Author: AthinaSka <s1163185@sms.ed.ac.uk>
+Date:   Sat Feb 4 14:26:16 2012 +0000
+
+    aha
+
+commit d1a034a93eaaa764e7b639d76836035ec00ea963
+Author: Angad <angadsuresh@gmail.com>
+Date:   Sat Feb 4 11:42:11 2012 +0000
+
+    GIT Installation Guide
+
+commit 6047a760f104bfe432eb7e966af15444fa7f5bd8
+Author: Angad <angadsuresh@gmail.com>
+Date:   Sat Feb 4 11:38:28 2012 +0000
+
+    Tasks Word Doc
+
+commit 348509642b6f8074f9c3fdfeda408aa04ed0b3ec
+Merge: fcd0953 7b4146f
+Author: Angad <angadsuresh@gmail.com>
+Date:   Sat Feb 4 11:28:53 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 7b4146f9cee321e148122b2f75ddaefbdb3115da
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sat Feb 4 01:24:04 2012 +0000
+
+    Just a check to see if I can change it.:)
+
+commit 697da63fc33fb57d0d623b5047ed3dc0a3f0aebf
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sat Feb 4 01:22:18 2012 +0000
+
+    I noted some tasks
+
+commit 456542bee2624d02d76b2810e6dd43b9d61368b9
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sat Feb 4 01:13:36 2012 +0000
+
+    thanos
+
+commit 36062644b23d579297473e7b1d52ae0e27cfe573
+Author: s1146566 <s1146566@inf.ed.ac.uk>
+Date:   Sat Feb 4 00:55:22 2012 +0000
+
+    just a test
+
+commit cda9b5a1f2848bd73157b5323c9e1517b186d980
+Author: unknown <ankita@ankita-VAIO.(none)>
+Date:   Fri Feb 3 23:24:35 2012 +0000
+
+    example 2 Ankita Mitra
+
+commit 19c9fcc75a38ae8af2e591b0c8df810102a0dd1c
+Author: unknown <ankita@ankita-VAIO.(none)>
+Date:   Fri Feb 3 23:13:22 2012 +0000
+    example Ankita Mitra
+
+commit fcd09535861ec6d2da17a10d9579d8c8f0f3f82e
+Author: Angad <angadsuresh@gmail.com>
+Date:   Thu Feb 2 20:42:57 2012 +0000
+
+    Estimates_edit2
+
+commit fd29a230b2f265a61fd65f0f1174e2616e345702
+Author: Angad <angadsuresh@gmail.com>
+Date:   Thu Feb 2 20:40:39 2012 +0000
+
+    Estimates
+
+commit b1cf529ffdd838768523e8724213d21a50abccf7
+Author: Angad <angadsuresh@gmail.com>
+Date:   Thu Feb 2 20:35:03 2012 +0000
+
+    Estimates
+
+commit d7f4e112ec8c0c1cf08c1679906a448376a1b809
+Author: Angad <angadsuresh@gmail.com>
+Date:   Thu Feb 2 19:00:30 2012 +0000
+
+    NCFR
+
+commit c3932b57ee2756bd48e0d2f505bb4305bdb8bc5f
+Author: Angad <angadsuresh@gmail.com>
+Date:   Thu Feb 2 18:53:53 2012 +0000
+
+    Tasks
+
+commit 7420a7cacc9cfb79bc021b71d1e3a653a0659557
+Author: Angad <angadsuresh@gmail.com>
+Date:   Thu Feb 2 18:12:31 2012 +0000
+
+    Case Study Overview
+
+commit 6e69218c834714a0dc1dc6ae26fc99ef4aec5fa9
+Merge: e2a339a a303a49
+Author: = <=>
+Date:   Thu Feb 2 17:59:01 2012 +0000
+
+    GIT
+
+commit e2a339ab58fea0eba3731eeef86e0c187093e208
+Author: = <=>
+Date:   Thu Feb 2 17:56:28 2012 +0000
+
+    GIT
+
+commit a303a49537c7dfe4b5ed71148d5a76c41f3057da
+Merge: 030442b d85394d
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:53:27 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 030442bfef60311b76a58df076c3f873dc640eba
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:52:32 2012 +0000
+
+    second round of changes
+
+commit d85394d09aaf25dc2c3badf5fb688214fd7aacb0
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:42:01 2012 +0000
+
+    Update setup.txt
+
+commit 1d55508a59b3007180be254757d2f59ba266a282
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:40:47 2012 +0000
+
+    adding the setup file
+
+commit 31588c1242efb097e0e60fdb0b8f62adc59941cb
+Merge: 3297b90 0ec5d93
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:34:34 2012 +0000
+
+    latest git changes
+
+commit 0ec5d934a7b200418f5219616d03752a36dcf992
+Merge: 6e57e5e 57538fd
+Author: = <=>
+Date:   Thu Feb 2 17:32:17 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 3297b909bac6265b73f464440058193009eb54a7
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:26:35 2012 +0000
+
+    git changes
+
+commit 6e57e5ee450993862bfa03605f36471d73fb793e
+Author: = <=>
+Date:   Thu Feb 2 17:31:10 2012 +0000
+
+    Document
+
+commit 57538fd7679c4e3ef35f25cf9e9af701f592ecbd
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:27:44 2012 +0000
+
+    Update GIT.txt
+
+commit ab48b7604e1d830272fa3a18ac432d6216383c26
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:26:35 2012 +0000
+
+    git changes
+
+commit 09d90446a4e048f5e2ab0ac0dc81a63b1f593069
+Merge: 2618370 ca3ab80
+Author: = <=>
+Date:   Thu Feb 2 17:21:47 2012 +0000
+
+    Merge branch 'master' of github.com:SAPMGroup60/SAPM12Team60
+
+commit 261837027090d7f81473365491c0107dbaf2979f
+Author: = <=>
+Date:   Thu Feb 2 17:20:46 2012 +0000
+
+    GIT
+
+commit ca3ab807b1f02b5e452f50057d871c77f299fcbd
+Author: s1141601 <joshenoy@gmail.com>
+Date:   Thu Feb 2 17:06:32 2012 +0000
+
+    first commit
